@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basil Ahamed</h1>
 <h3 align="center">A passionate Automation Tester (Python/Java)</h3>
 
-- 🔭 I’m currently working on [Best Buy Project](https://github.com/basil-hameed/Task-1.git)
+- 🔭 I’m currently working on [Red Bus Project](https://www.github.com/redbus)
 
 - 🌱 I’m currently learning **Python/Java Automation Testing**
 
