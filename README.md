@@ -1,7 +1,25 @@
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/PYTHON-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SE](https://img.shields.io/badge/-SELENIUM-CB02A?style=plastic&logo=selenium&logoColor=white) ![Cucumber](https://img.shields.io/badge/CUCUMBER-%8B89CC.svg?style=plastic&logo=cucumber&logoColor=black) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/MYSQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/JENKINS-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
+<h1 align="center">Hi 👋, I'm Basil Ahamed</h1>
+<h3 align="center">A passionate Automation Tester (Python/Java)</h3>
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=basil-hameed&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=basil-hameed&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=basil-hameed&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+- 🔭 I’m currently working on [Best Buy Project](https://github.com/basil-hameed/Task-1.git)
+
+- 🌱 I’m currently learning **Python/Java Automation Testing**
+
+- 👯 I’m looking to collaborate on [Amazon Automation Project](https://github.com/basil-hameed/Task-1.git)
+
+- 📝 I regularly write articles on [https://medium.com/@basil_67904](https://medium.com/@basil_67904)
+
+- 💬 Ask me about **python, java, selenium, mysql, jenkins ci/cd**
+
+- 📫 How to reach me **basil@gmail.com**
+
+- ⚡ Fun fact **I am good at digital arts**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/basil-ahamed-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/basil-ahamed-s" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
